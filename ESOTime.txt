@@ -2,4 +2,6 @@
 ## APIVersion: 100003
 
 ESOTime.xml
+bindings.xml
 ESOTime.lua
+

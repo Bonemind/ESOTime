@@ -1,0 +1,9 @@
+<Bindings>
+  <Layer name="General">
+    <Category name="ESOTime">
+      <Action name="TOGGLE_FPS">
+        <Down>ToggleFps()</Down>
+      </Action>
+    </Category>
+  </Layer>
+</Bindings>
