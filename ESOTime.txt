@@ -1,5 +1,5 @@
 ## Title: ESOTime
 ## APIVersion: 100003
 
-ESOTime.lua
 ESOTime.xml
+ESOTime.lua
