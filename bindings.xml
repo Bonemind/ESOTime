@@ -4,6 +4,15 @@
       <Action name="TOGGLE_FPS">
         <Down>ToggleFps()</Down>
       </Action>
+      <Action name="TIMER_CONTROL">
+        <Down>controlTimer()</Down>
+      </Action>
+      <Action name="TOGGLE_TIMER_RUNNING">
+        <Down>pauseTimer()</Down>
+      </Action>
+      <Action name="RESET_TIMER">
+        <Down>resetTimer()</Down>
+      </Action>
     </Category>
   </Layer>
 </Bindings>
